@@ -1,0 +1,1 @@
+This is the firt version for the Gentica ERP for Electronic invoice generation 
